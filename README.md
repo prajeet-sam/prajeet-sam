@@ -26,7 +26,7 @@
 - 🔍 Deep interest in **SEO** and **GEO (Generative Engine Optimization)** — how content gets found by both search engines and LLMs
 - 🎨 Focused on **UI/UX** and **full-stack web development**, with a bias toward clean, intentional design over templated defaults
 - 📈 Longer-term pull toward **finance AI**, **quantitative applications**, and **bioinformatics**
-- 🚀 Building startups and side projects throughout college, not just coursework
+- 🚀 Building  projects throughout college, not just coursework
 - 🛠️ Prefer shipping working, production-quality builds over specs and prototypes that never leave the drawing board
 
 ---
