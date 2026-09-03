@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./avatar-draw.svg" width="200" alt="Jeet's avatar" />
+</p>
+
 <h1 align="center">Hey, I'm Jeet 👋</h1>
 <h3 align="center">Building things at the intersection of search, design, and code</h3>
 
