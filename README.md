@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prajeet-sam-79536a412/">
+  <a href="[https://www.linkedin.com/in/prajeet-sam-79536a412/](https://www.linkedin.com/in/prajeet-sam-025117419/)">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/JeetLearnsSomething">
