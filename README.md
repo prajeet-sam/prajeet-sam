@@ -1,15 +1,17 @@
+<!-- ===================== HEADER ===================== -->
+
 <p align="center">
-  <img src="./avatar-draw.svg" width="200" alt="Jeet's avatar" />
+  <img src="./avatar-draw.svg" width="180" alt="Jeet's avatar" />
 </p>
 
 <h1 align="center">Hey, I'm Jeet 👋</h1>
 
-<h3 align="center">
-  Building at the intersection of search, design, and code.
-</h3>
+<p align="center">
+  <strong>ENTC Student • Developer • Builder • Explorer</strong>
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=SEO+%26+GEO+%7C+UI%2FUX+%7C+Web+Development;B.Tech+ENTC+%40+Symbiosis+Institute+of+Technology;Exploring+Finance+AI+%2B+Quant+%2B+Bioinformatics;Building%2C+learning%2C+and+shipping+every+week" alt="Typing SVG" />
+  Building at the intersection of <strong>search, design, code, and AI</strong>.
 </p>
 
 <p align="center">
@@ -17,169 +19,234 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/JeetLearnsSomething">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=900&color=6C63FF&center=true&vCenter=true&width=700&lines=SEO+%26+GEO;UI%2FUX+%26+Web+Development;AI+%2F+ML+Exploration;Building+projects+throughout+college" alt="Typing SVG" />
 </p>
 
 ---
 
-## 🧭 About Me
+## 👨‍💻 About Me
 
-* 🎓 **First-year B.Tech ENTC** student at **Symbiosis Institute of Technology, Pune**
-* 🔍 Exploring **SEO** and **GEO (Generative Engine Optimization)** — how content gets discovered by search engines and AI answer engines
-* 🎨 Interested in **UI/UX** and **full-stack web development**, with a focus on clean and intentional interfaces
-* 🧠 Currently learning **Python, React, MySQL, C, and backend development**
-* 📈 Exploring the intersection of **AI, finance, quantitative applications, and bioinformatics**
-* 🚀 Building projects throughout college instead of limiting myself to coursework
-* 🛠️ I learn best by **building, breaking, fixing, and shipping**
+I'm **Jeet**, a first-year **B.Tech Electronics & Telecommunication Engineering (ENTC)** student at **Symbiosis Institute of Technology, Pune**.
+
+I'm interested in building useful digital products and understanding the systems behind them — from how interfaces are designed to how information gets discovered by search engines and AI systems.
+
+### Currently focused on
+
+* 🔍 **SEO & GEO** — search engines, AI answer engines & discoverability
+* 🎨 **UI/UX** — thoughtful interfaces and product experiences
+* 💻 **Web Development** — frontend, backend & deployment
+* 🤖 **AI / ML** — applied AI and data-driven products
+* 📈 **Finance AI & Quant** — an area I'm actively exploring
+* 🧬 **Bioinformatics** — another long-term area of interest
+
+> **My approach:** Learn something → build something → break it → fix it → ship it.
 
 ---
 
-## 🧩 Featured Work
+# 🚀 Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+Projects are where most of my learning happens.
 
 ### 🌙 Lantern
 
-A private cycle-tracking experience focused on understanding patterns without streaks, guilt, or unnecessary gamification.
+**A private cycle-tracking experience designed around understanding rather than gamification.**
 
-**Stack:** TypeScript
+Lantern explores a gentler approach to personal tracking — focusing on patterns and awareness without streaks, guilt, or unnecessary pressure.
 
-[View Project →](https://lanternforher.netlify.app/)
+**Built with**
 
-```
-</td>
+`TypeScript`
 
-<td width="50%" valign="top">
-```
+**Live**
 
-### 🚶 EmotionalWalk
-
-An experiment in reflective, mood-aware interaction design built around the idea of using digital experiences to help people process emotions.
-
-**Stack:** TypeScript
-
-[View Project →](https://decide-ur-walk.netlify.app/)
-
-```
-</td>
-```
-
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-
-### 📚 Coaching Management System
-
-A CLI-based coaching and batch management system with CRUD operations for teachers, batches, and students, backed by a relational MySQL database.
-
-**Stack:** Python • MySQL
-
-```
-</td>
-
-<td width="50%" valign="top">
-```
-
-### 🔭 More in Progress
-
-Currently building projects across **civic-tech, forensic tooling, productivity, AI, and ML-driven systems**.
-
-More repositories coming soon.
-
-```
-</td>
-```
-
-  </tr>
-</table>
+[🌐 Open Lantern](https://lanternforher.netlify.app/)
 
 ---
 
-## 🛠️ Tech Stack
+### 🚶 EmotionalWalk
+
+**An experiment in reflective, mood-aware interaction design.**
+
+EmotionalWalk explores how a digital experience can respond to emotions and help users reflect on what they're feeling.
+
+**Built with**
+
+`TypeScript`
+
+**Live**
+
+[🌐 Open EmotionalWalk](https://decide-ur-walk.netlify.app/)
+
+---
+
+### 📚 Coaching Management System
+
+**A CLI-based coaching and batch management system.**
+
+A relational CRUD application for managing:
+
+* 👨‍🏫 Teachers
+* 📚 Batches
+* 👨‍🎓 Students
+
+Includes database-backed relationships and management operations using MySQL.
+
+**Built with**
+
+`Python` `MySQL`
+
+---
+
+### 🧪 More Projects in Progress
+
+I'm currently experimenting with projects across:
+
+`Civic-Tech` · `Forensics` · `Productivity` · `AI/ML` · `Search` · `Web Development`
+
+More projects will appear here as they're shipped.
+
+---
+
+# 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=c,python,javascript,typescript" alt="Languages" />
 </p>
 
-### Web Development
+### Frontend & Web
 
 <p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,html,css" alt="Web technologies" />
 </p>
 
-### Data & Tools
+### Backend & Database
 
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=fastapi,mysql" alt="Backend technologies" />
 </p>
 
-### Areas I'm Exploring
+### Tools
 
-`SEO` `GEO` `AI/ML` `UI/UX` `Data Science` `Finance AI` `Quant` `Bioinformatics`
-
----
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=JeetLearnsSomething&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeetLearnsSomething&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeetLearnsSomething&theme=tokyonight&hide_border=true" />
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools" />
 </p>
 
 ---
 
-## 🚀 What I'm Building Toward
+# 🧠 Areas I'm Exploring
 
 ```text
-ENTC
-  │
-  ├── Web Development
-  │     ├── React
-  │     ├── Backend
-  │     └── Production Projects
-  │
-  ├── AI / ML
-  │     ├── Python
-  │     ├── Data Science
-  │     └── Applied AI
-  │
-  ├── Search
-  │     ├── SEO
-  │     └── GEO
-  │
-  └── Exploration
-        ├── Finance AI
-        ├── Quantitative Applications
-        └── Bioinformatics
+Web Development
+      │
+      ├── UI / UX
+      ├── React
+      ├── Backend
+      └── Production Projects
+
+AI / ML
+      │
+      ├── Python
+      ├── Data
+      ├── Applied AI
+      └── Intelligent Products
+
+Search
+      │
+      ├── SEO
+      ├── GEO
+      └── AI Answer Engines
+
+Future Exploration
+      │
+      ├── Finance AI
+      ├── Quantitative Applications
+      └── Bioinformatics
 ```
 
 ---
 
+# 📊 GitHub
+
 <p align="center">
-  <i>
-    Currently exploring how search engines and AI answer engines discover,
-    rank, and cite information — and building tools around it.
-  </i>
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api?username=JeetLearnsSomething&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
+    alt="Jeet's GitHub statistics"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeetLearnsSomething&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Jeet's most used languages"
+  />
 </p>
 
 <p align="center">
-  <b>Build → Learn → Break → Fix → Ship → Repeat.</b>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=JeetLearnsSomething&theme=tokyonight&hide_border=true"
+    alt="Jeet's GitHub streak"
+  />
+</p>
+
+---
+
+# 🎯 What I'm Working Toward
+
+```text
+First Year
+   ↓
+Strong Programming + Web Fundamentals
+   ↓
+Real Projects + Open Source
+   ↓
+Internships + Hackathons
+   ↓
+AI / ML + Applied Systems
+   ↓
+Specialization
+   ↓
+Build Things That People Actually Use
+```
+
+---
+
+# 📌 Currently Learning
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/SEO-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/GEO-6C63FF?style=flat-square" />
+</p>
+
+---
+
+## 💭 A Little More
+
+I don't want GitHub to be a collection of tutorials I've followed.
+
+I want it to show a progression:
+
+**learning → experimenting → building → shipping → improving.**
+
+Most of the interesting stuff is still ahead.
+
+---
+
+<p align="center">
+  <strong>Build → Learn → Break → Fix → Ship → Repeat.</strong>
+</p>
+
+<p align="center">
+  <sub>Thanks for stopping by 👋</sub>
 </p>
